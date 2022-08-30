@@ -1,1 +1,1 @@
-# amit-helm
+# amit-chart
